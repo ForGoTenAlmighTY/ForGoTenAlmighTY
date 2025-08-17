@@ -2,14 +2,14 @@
 
 <p align="center">
 🎓 Honours in Computer & Information Sciences (Application Development) <br>
-💻 Software Developer | 🧪 Aspiring C# Developer | ☁️ Cloud Enthusiast  
+💻 Software Developer | ☁️ Cloud & Database Enthusiast  
 </p>  
 
 ---
 
 ## 🚀 About Me  
-I’m passionate about **building impactful applications**, ensuring **quality through testing**, and continuously learning new technologies.  
-With a background in **software development, cloud computing, and systems analysis**, I bridge the gap between technical solutions and real-world needs.  
+I’m passionate about **building impactful applications** and leveraging **cloud and database technologies** to deliver scalable solutions.  
+My background blends **software development, system analysis, and cloud deployment** with practical project experience.  
 
 ---
 
@@ -32,20 +32,20 @@ With a background in **software development, cloud computing, and systems analys
 
 ### 🌍 [Disaster Alleviation Foundation](https://github.com/ForGoTenAlmighTY/Disaster-Alleviation-Foundation)  
 A **donation tracking system** built with ASP.NET and Azure Cloud.  
-Improved donation efficiency by **65%**, with a focus on transparency and scalability.  
+Improved donation efficiency by **65%**, focusing on transparency and scalability.  
 
 ---
 
 ### 🌱 Agri-Energy Connect  
-A **digital ecosystem** bridging agriculture and renewable energy.  
-Features a sustainable farming hub, green energy marketplace, and collaboration space.  
-🎥 [Watch Demo](https://youtu.be/sFFb5JgnWfM)  
+A prototype **green energy marketplace** for the agricultural sector.  
+Farmers and stakeholders can **browse, compare, and adopt renewable energy solutions** such as solar irrigation, wind turbines, and biogas systems.  
+🎥 [Watch Demo Video](https://youtu.be/sFFb5JgnWfM)  
 
 ---
 
 ### 🚗 RideYouRent  
 A **car rental management system** using SQL Server, later migrated to Azure SQL Database.  
-Includes predictive maintenance queries and late fee calculation logic.  
+Features predictive maintenance queries and late fee calculation logic for real-world business rules.  
 
 ---
 
@@ -68,4 +68,4 @@ Includes predictive maintenance queries and late fee calculation logic.
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-leping"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:viniesta31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+</p>  
