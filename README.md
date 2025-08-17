@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Honours in Computer & Information Sciences (Application Development) <br>
-💻 Software Developer | 🧪 Aspiring QA Engineer | ☁️ Cloud Enthusiast  
+💻 Software Developer | 🧪 Aspiring C# Developer | ☁️ Cloud Enthusiast  
 </p>  
 
 ---
